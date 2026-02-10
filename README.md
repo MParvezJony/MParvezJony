@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://mohammad-parvez.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mohammad--parvez.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-mohammad--parvez.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://shopnilit.com" target="_blank">
-    <img src="https://img.shields.io/badge/Shopnil%20IT-shopnilit.com-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shopnil%20IT-shopnilit.com-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://fixedthephoto.com" target="_blank">
-    <img src="https://img.shields.io/badge/FIXED%20THE%20PHOTO-fixedthephoto.com-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/FIXED%20THE%20PHOTO-fixedthephoto.com-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -110,16 +110,32 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MParvezJony&theme=tokyonight&hide_border=true&background=0d1117&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff" alt="GitHub Streak" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true&background=0d1117&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MParvezJony&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true&background=0d1117&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff" alt="GitHub Streak" width="48%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="96%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=ffffff&color=1a73e8&line=00c6ff&point=000000&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="96%" />
+  </picture>
 </p>
 
 ---
@@ -127,7 +143,11 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=flat&no-frame=true&no-bg=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  </picture>
 </p>
 
 ---
@@ -176,7 +196,7 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
     <td align="center" width="50%">
       <h3>🏢 Shopnil IT</h3>
       <a href="https://shopnilit.com" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-shopnilit.com-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-shopnilit.com-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br/><br/>
       <p>Full-service parent digital solutions company delivering enterprise-grade web design, scalable web development, and high-quality product image retouching. Enabling brands to operate, scale, and compete effectively in global markets.</p>
@@ -184,7 +204,7 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
     <td align="center" width="50%">
       <h3>📸 FIXED THE PHOTO</h3>
       <a href="https://fixedthephoto.com" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-fixedthephoto.com-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-fixedthephoto.com-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br/><br/>
       <p>Premium e-commerce product image editing and retouching solutions. Delivering consistent, commercially optimized visuals that enhance product presentation, brand credibility, and conversion performance.</p>
