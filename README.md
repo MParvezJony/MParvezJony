@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Mohammad%20Parvez%20(Jony)&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%7C%20Graphic%20Designer%20%7C%20MERN%20Stack%20Developer&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=120&section=header" width="100%" alt="Header" />
 </p>
 
 <p align="center">
