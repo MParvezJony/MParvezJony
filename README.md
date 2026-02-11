@@ -91,6 +91,9 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Go](https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -99,7 +102,7 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 🚀 What I Build
 
 ```
-✅ Full-Stack Web Applications          ✅ Admin Panels & Dashboards
+✅ Full-Stack Web Applications           ✅ Admin Panels & Dashboards
 ✅ RESTful APIs & Backend Services       ✅ Dynamic Business Websites
 ✅ E-commerce Platforms                  ✅ Responsive UI/UX Designs
 ✅ Real-World Business Solutions         ✅ Scalable & Secure Systems
@@ -110,32 +113,37 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true&background=0d1117&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MParvezJony&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true&background=0d1117&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff" alt="GitHub Streak" width="48%" />
-  </picture>
+  <!-- GitHub Overall Stats -->
+  <img
+    src="https://github-readme-stats-eight-rouge-16.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" alt="Top Languages" width="48%" />
-  </picture>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-eight-rouge-16.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=ffffff&color=1a73e8&line=00c6ff&point=000000&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="96%" />
-  </picture>
+  <!-- GitHub Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true"
+    alt="Activity Graph"
+    width="96%"
+  />
 </p>
 
 ---
