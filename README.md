@@ -1,24 +1,32 @@
-<!-- Header Banner -->
+<!-- ===================================================== -->
+<!-- HEADER BANNER -->
+<!-- ===================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=120&section=header" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff7a18,100:f45c0a&height=150&section=header" width="100%" />
 </p>
 
+<!-- ===================================================== -->
+<!-- PRIMARY LINKS -->
+<!-- ===================================================== -->
 <p align="center">
   <a href="https://mohammad-parvez.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mohammad--parvez.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-mohammad--parvez.com-ff7a18?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://shopnilit.com" target="_blank">
-    <img src="https://img.shields.io/badge/Shopnil%20IT-shopnilit.com-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shopnil%20IT-shopnilit.com-f45c0a?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://fixedthephoto.com" target="_blank">
-    <img src="https://img.shields.io/badge/FIXED%20THE%20PHOTO-fixedthephoto.com-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/FIXED%20THE%20PHOTO-fixedthephoto.com-ff9a3c?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
+<!-- ===================================================== -->
+<!-- PROFILE META -->
+<!-- ===================================================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MParvezJony&color=1a73e8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MParvezJony?label=Followers&style=flat-square&color=00c6ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Fiverr-350%2B%20Reviews-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr Reviews" />
+  <img src="https://komarev.com/ghpvc/?username=MParvezJony&color=ff7a18&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/MParvezJony?label=Followers&style=flat-square&color=f45c0a" />
+  <img src="https://img.shields.io/badge/Fiverr-350%2B%20Reviews-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
 </p>
 
 ---
@@ -115,30 +123,30 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 <!-- Row 1: Stats + Streak -->
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-rouge-16.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-eight-rouge-16.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff7a18&icon_color=f45c0a&text_color=c9d1d9"
     alt="GitHub Stats"
     width="49%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true&ring=ff7a18&fire=f45c0a&currStreakLabel=ff7a18"
     alt="GitHub Streak"
     width="49%"
   />
 </p>
 
-<!-- Row 2: Top Languages (Centered) -->
+<!-- Row 2: Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-rouge-16.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-eight-rouge-16.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true&title_color=ff7a18&text_color=c9d1d9"
     alt="Top Languages"
     width="60%"
   />
 </p>
 
-<!-- Row 3: Activity Graph (Full Width) -->
+<!-- Row 3: Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=ff7a18&line=f45c0a&point=ffffff&area=true&hide_border=true"
     alt="Activity Graph"
     width="100%"
   />
@@ -164,34 +172,34 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 
 <p align="center">
   <a href="https://mohammad-parvez.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-mohammad--parvez.com-0d1117?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-mohammad--parvez.com-ff7a18?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/mparvezjony/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MParvezJony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-MParvezJony-f45c0a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.fiverr.com/users/mohammad_jony/" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-mohammad__jony-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/dreamjony/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-dreamjony-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-dreamjony-ff7a18?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/unw4nt3d_s0ul/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-unw4nt3d__s0ul-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-unw4nt3d__s0ul-f45c0a?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/JonY_ShopnilIT" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-JonY__ShopnilIT-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-JonY__ShopnilIT-0d1117?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.alignable.com/fargo-nd/shopnil-it?user=1244797" target="_blank">
-    <img src="https://img.shields.io/badge/Alignable-Shopnil%20IT-0073B1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Alignable-Shopnil%20IT-ff9a3c?style=for-the-badge" />
   </a>
   <a href="https://web.whatsapp.com/send?phone=8801673027999&text=Hello" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/dreamjony" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-dreamjony-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-dreamjony-ff7a18?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1073216401575256155" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Jony-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Jony-f45c0a?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -204,18 +212,27 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
     <td align="center" width="50%">
       <h3>🏢 Shopnil IT</h3>
       <a href="https://shopnilit.com" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-shopnilit.com-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-shopnilit.com-ff7a18?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br/><br/>
-      <p>Full-service parent digital solutions company delivering enterprise-grade web design, scalable web development, and high-quality product image retouching. Enabling brands to operate, scale, and compete effectively in global markets.</p>
+      <p>
+        Full-service parent digital solutions company delivering enterprise-grade
+        web design, scalable web development, and high-quality product image
+        retouching. Enabling brands to operate, scale, and compete effectively
+        in global markets.
+      </p>
     </td>
     <td align="center" width="50%">
       <h3>📸 FIXED THE PHOTO</h3>
       <a href="https://fixedthephoto.com" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-fixedthephoto.com-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visit-fixedthephoto.com-f45c0a?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br/><br/>
-      <p>Premium e-commerce product image editing and retouching solutions. Delivering consistent, commercially optimized visuals that enhance product presentation, brand credibility, and conversion performance.</p>
+      <p>
+        Premium e-commerce product image editing and retouching solutions.
+        Delivering consistent, commercially optimized visuals that enhance
+        product presentation, brand credibility, and conversion performance.
+      </p>
     </td>
   </tr>
 </table>
@@ -259,7 +276,7 @@ const mohammadParvez = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff7a18,100:f45c0a&height=150&section=header" width="100%" />
 </p>
 
 <p align="center">
