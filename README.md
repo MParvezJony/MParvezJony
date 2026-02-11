@@ -112,37 +112,35 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Stats + Streak -->
 <p align="center">
-  <!-- GitHub Overall Stats -->
   <img
     src="https://github-readme-stats-eight-rouge-16.vercel.app/api?username=MParvezJony&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    width="48%"
+    width="49%"
   />
-
-  <!-- GitHub Streak Stats -->
   <img
     src="https://streak-stats.demolab.com?user=MParvezJony&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-    width="48%"
+    width="49%"
   />
 </p>
 
+<!-- Row 2: Top Languages (Centered) -->
 <p align="center">
-  <!-- Top Languages -->
   <img
     src="https://github-readme-stats-eight-rouge-16.vercel.app/api/top-langs/?username=MParvezJony&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
-    width="48%"
+    width="60%"
   />
 </p>
 
+<!-- Row 3: Activity Graph (Full Width) -->
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MParvezJony&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&hide_border=true"
     alt="Activity Graph"
-    width="96%"
+    width="100%"
   />
 </p>
 
@@ -151,11 +149,11 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=flat&no-frame=true&no-bg=true&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-  </picture>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ---
