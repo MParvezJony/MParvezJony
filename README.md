@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MParvezJony&color=1a73e8&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MParvezJony?label=Followers&style=flat-square&color=00c6ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Fiverr-250%2B%20Reviews-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr Reviews" />
+  <img src="https://img.shields.io/badge/Fiverr-350%2B%20Reviews-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr Reviews" />
 </p>
 
 ---
@@ -224,13 +224,13 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 
 ## 💡 My Development Philosophy
 
-```javascript
+```JavaScript
 const mohammadParvez = {
     name: "Mohammad Parvez (Jony)",
     roles: ["Founder & CEO", "Graphic Designer", "Web Designer", "MERN Stack Developer"],
     companies: {
         shopnilIT: "Full-service digital solutions — Web Design, Development & Image Retouching",
-        fixedThePhoto: "Premium e-commerce product image editing & retouching"
+        fixedThePhoto: "Premium e-commerce product image editing & retouching."
     },
     techStack: {
         frontend: ["React", "Next.js", "JavaScript", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
@@ -264,7 +264,7 @@ const mohammadParvez = {
 
 <p align="center">
   <b>💼 Open for collaborations, freelance projects, and business inquiries!</b><br/>
-  📧 Reach me at <a href="https://mohammad-parvez.com">mohammad-parvez.com</a> or connect on any platform above.
+  📧 Reach me at <a href="https://mohammad-parvez.com/contact">mohammad-parvez.com</a> or connect on any platform above.
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/MParvezJony">MParvezJony</a> with ❤️</p>
