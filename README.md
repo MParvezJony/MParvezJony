@@ -150,7 +150,7 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MParvezJony&theme=algolia&no-frame=true&no-bg=true&column=7"
+    src="https://github-profile-trophy-khaki.vercel.app/?username=MParvezJony&theme=algolia&column=7&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     width="100%"
   />
