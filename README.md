@@ -149,11 +149,13 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy-khaki.vercel.app/?username=MParvezJony&theme=algolia&column=7&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <a href="https://github.com/MParvezJony" target="_blank">
+    <img
+      src="https://github-profile-trophy-khaki.vercel.app/api/?username=MParvezJony&theme=algolia&column=7&margin-w=15&margin-h=15"
+      alt="GitHub Trophies"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
