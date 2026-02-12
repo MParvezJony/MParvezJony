@@ -198,7 +198,7 @@ As a specialist in **high-end product image editing** for e-commerce, I deliver 
   <a href="https://t.me/dreamjony" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-dreamjony-ff7a18?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1073216401575256155" target="_blank">
+  <a href="https://discord.com/users/dreamjony" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Jony-f45c0a?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
